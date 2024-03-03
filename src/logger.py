@@ -13,5 +13,3 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-if __name__ =="__main__":
-    logging.info("this is to test logger")
